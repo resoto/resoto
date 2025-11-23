@@ -28,6 +28,20 @@ The user can freely change the node operation and protocol specifications.
 ## Author Profile
 
 <div align="center">
+  <a href="https://x.com/debug_ahiru">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
+  </a>
+  <a href="mailto:bigmakiinum@outlook.jp">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://qiita.com/debug_ahiru">
+    <img src="https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"/>
+  </a>
+</div>
+
+<br>
+
+<div align="center">
   <table>
     <tr>
       <td align="center" width="50%"><strong>GitHub Stats</strong></td>
