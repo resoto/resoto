@@ -18,9 +18,7 @@
 </a>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<hr>
 
 ## Badge
 <a href="https://www.credly.com/badges/36a6417e-c851-4d31-897d-51b3dfb4507b/public_url">
