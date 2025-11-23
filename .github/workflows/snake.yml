@@ -1,0 +1,33 @@
+name: Generate Snake
+
+on:
+  # 毎日午前0時（UTC）に実行
+  schedule:
+    - cron: "0 0 * * *" 
+  # 手動実行も可能にする
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          # GitHubのユーザー名（resoto）
+          github_user_name: resoto
+          # 出力ファイルの保存場所（ダークモード用とライトモード用）
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
