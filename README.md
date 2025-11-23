@@ -16,3 +16,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resoto" />
 </a>
+
+<a href="https://www.credly.com/badges/36a6417e-c851-4d31-897d-51b3dfb4507b/public_url">
