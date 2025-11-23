@@ -18,8 +18,17 @@
 </a>
 
 
-🎖️ Credly バッジ：
-[![Credly Badge](https://images.credly.com/size/200x200/images/36a6417e-c851-4d31-897d-51b3dfb4507b/badge.png)](https://www.credly.com/badges/36a6417e-c851-4d31-897d-51b3dfb4507b/public_url)
+<br><br><br><br><br><br><br><br><br><br><br><br>
+
+<hr>
+
+## Badge
+<a href="https://www.credly.com/badges/36a6417e-c851-4d31-897d-51b3dfb4507b/public_url">
+  <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" />
+</a>
+
+
+
 
 
 
