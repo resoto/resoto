@@ -15,6 +15,16 @@ The user can freely change the node operation and protocol specifications.
 
 ---
 
+## 🛠 Skills
+<div align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" />
+</div>
+
+<br>
+
 ## Author Profile
 
 <div align="center">
@@ -34,7 +44,8 @@ The user can freely change the node operation and protocol specifications.
         </a>
       </td>
       <td align="center" valign="top">
-        <br> <a href="https://www.credly.com/badges/36a6417e-c851-4d31-897d-51b3dfb4507b/public_url">
+        <br>
+        <a href="https://www.credly.com/badges/36a6417e-c851-4d31-897d-51b3dfb4507b/public_url">
           <img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" />
         </a>
         <br><br>
