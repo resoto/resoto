@@ -17,5 +17,9 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=resoto" />
 </a>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="36a6417e-c851-4d31-897d-51b3dfb4507b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+🎖️ Credly バッジ：
+[![Credly Badge](https://images.credly.com/size/200x200/images/36a6417e-c851-4d31-897d-51b3dfb4507b/badge.png)](https://www.credly.com/badges/36a6417e-c851-4d31-897d-51b3dfb4507b/public_url)
+
+
 
