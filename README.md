@@ -81,6 +81,8 @@ The user can freely change the node operation and protocol specifications.
         <a href="https://www.credly.com/badges/0fea42ad-4f06-4513-b473-d09885c102f1/public_url">
           <img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="Certification Badge 3"/>
         </a>
+        <br><br>
+        <img src="pic/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%233_image.png" width="100" alt="JDLA Deep Learning for GENERAL 2025 #3"/>
       </td>
     </tr>
   </table>
