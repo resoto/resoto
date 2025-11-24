@@ -38,7 +38,7 @@ The user can freely change the node operation and protocol specifications.
 
 ---
 
-## About me
+## 🐥 About me
 I'm interested in tech like Cloudflare and blockchain, particularly focusing on decentralized infrastructure and security. I enjoy programming in Swift. I currently live in Japan and am a passionate mountain climber.
 
 <div align="center">
