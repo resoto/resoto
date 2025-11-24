@@ -53,6 +53,17 @@ I'm interested in Cloudflare and blockchain, Swift.
 
 <br>
 
+
+## Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=resoto&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=resoto&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=resoto&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=resoto&theme=gruvbox)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=resoto&theme=gruvbox&utcOffset=9)
+
+## Trophy
+![trophy](https://github-profile-trophy.vercel.app/?username=Keichan15&theme=gruvbox)
+
 <div align="center">
   <table>
     <tr>
