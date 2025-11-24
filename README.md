@@ -39,9 +39,7 @@ The user can freely change the node operation and protocol specifications.
 ---
 
 ## About me & Contact
-"I'm interested in tech like Cloudflare and blockchain, particularly focusing on decentralized infrastructure and security. I enjoy programming in Swift. I currently live in Japan and am a passionate mountain climber.
-
-My interests lie in Cloudflare and blockchain technology, particularly focusing on decentralized infrastructure and security.
+I'm interested in tech like Cloudflare and blockchain, particularly focusing on decentralized infrastructure and security. I enjoy programming in Swift. I currently live in Japan and am a passionate mountain climber.
 
 <div align="center">
   <a href="https://x.com/debug_ahiru" style="text-decoration: none; outline: none; border: none;">
