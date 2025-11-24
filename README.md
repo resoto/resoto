@@ -65,7 +65,7 @@ I'm interested in tech like Cloudflare and blockchain, particularly focusing on 
 ---
 
 ## 🥇 Badges
-<img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" alt="Certification Badge 1"/><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="Certification Badge 2"/><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="Certification Badge 3"/><img src="https://github.com/resoto/resoto/blob/main/pic/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%233_image.png?raw=true" width="100" alt="JDLA Deep Learning for GENERAL 2025 #3"/>
+<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="Certification Badge 2"/><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="Certification Badge 3"/><img src="https://github.com/resoto/resoto/blob/main/pic/JDLA%20Deep%20Learning%20for%20GENERAL%202025%20%233_image.png?raw=true" width="100" alt="JDLA Deep Learning for GENERAL 2025 #3"/><img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" alt="Certification Badge 1"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=resoto&style=flat-square&color=blue" alt="visitors" />
