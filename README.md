@@ -36,7 +36,8 @@ The user can freely change the node operation and protocol specifications.
   </picture>
 </div>
 
-## Author Profile
+## About me
+I'm interested in Cloudflare and blockchain, Swift. Also, Gemini is my go-to AI partner.
 
 <div align="center">
   <a href="https://x.com/debug_ahiru">
