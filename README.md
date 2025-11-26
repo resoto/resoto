@@ -40,7 +40,7 @@ The user can freely change the node operation and protocol specifications.
 ---
 
 ## 🐥 About me
-I'm interested in tech like Cloudflare and blockchain, particularly focusing on decentralized infrastructure and security. I enjoy programming in Swift. I currently live in Japan and am a passionate mountain climber.
+Software Engineer based in Japan. I'm interested in Cloudflare, blockchain, decentralized infrastructure, and security. I enjoy programming in Swift. Passionate mountain climber and rubber duck lover.
 
 📫 Email: [bigmakiinum@outlook.jp]<br>
 🐦 X(Twitter): [https://x.com/debug_ahiru]
