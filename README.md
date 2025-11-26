@@ -42,6 +42,9 @@ The user can freely change the node operation and protocol specifications.
 ## 🐥 About me
 I'm interested in tech like Cloudflare and blockchain, particularly focusing on decentralized infrastructure and security. I enjoy programming in Swift. I currently live in Japan and am a passionate mountain climber.
 
+📫 Email: [bigmakiinum@outlook.jp]<br>
+🐦 X(Twitter): [https://x.com/debug_ahiru]
+
 <div align="center">
   <a href="https://x.com/debug_ahiru" style="text-decoration: none; outline: none; border: none;">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
