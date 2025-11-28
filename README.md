@@ -46,13 +46,13 @@ Software Engineer based in Japan. I'm interested in Cloudflare, blockchain, dece
 🐦 X(Twitter): [https://x.com/resoto_dev]
 
 <div align="center">
-  <a href="https://x.com/debug_ahiru" style="text-decoration: none; outline: none; border: none;">
+  <a href="https://x.com/resoto_dev" style="text-decoration: none; outline: none; border: none;">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
   </a>
   <a href="mailto:bigmakiinum@outlook.jp" style="text-decoration: none; outline: none; border: none;">
     <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://qiita.com/debug_ahiru" style="text-decoration: none; outline: none; border: none;">
+  <a href="https://qiita.com/resoto" style="text-decoration: none; outline: none; border: none;">
     <img src="https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita"/>
   </a>
 </div>
