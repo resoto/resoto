@@ -29,12 +29,14 @@ The user can freely change the node operation and protocol specifications.
         Optimizes cup noodle cooking time based on altitude-dependent boiling points.
       </td>
       <td align="center" width="50%">
-        <img src="https://github.com/resoto/resoto/raw/main/pic/sunset_hiker.png" width="100" alt="Sunset Hiker"/>
+        <a href="https://apps.apple.com/jp/app/登山日没時計/id6756158618"><img src="https://github.com/resoto/resoto/raw/main/pic/sunset_hiker.png" width="100" alt="Sunset Hiker"/></a>
         <br>
         <b>Sunset Hiker</b>
         <br>
         <br>
         Predicts accurate sunset times and magic hours considering elevation.
+        <br>
+        <a href="https://apps.apple.com/jp/app/登山日没時計/id6756158618"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
       </td>
     </tr>
   </table>
