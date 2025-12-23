@@ -33,7 +33,7 @@ The user can freely change the node operation and protocol specifications.
       <td align="center" width="50%">
         <a href="https://apps.apple.com/jp/app/登山日没時計/id6756158618"><img src="https://github.com/resoto/resoto/raw/main/pic/sunset_hiker.png" width="100" alt="Sunset Hiker"/></a>
         <br>
-        <b>Sunset Hiker</b>
+        <b>Sunset Hiker (登山日没時計)</b>
         <br>
         <br>
         Predicts accurate sunset times and magic hours considering elevation.
