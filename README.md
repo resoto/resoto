@@ -36,7 +36,7 @@ The user can freely change the node operation and protocol specifications.
         <b>Sunset Hiker (登山日没時計)</b>
         <br>
         <br>
-        Predicts accurate sunset times and magic hours considering elevation.
+        Accurately predicts sunset times and golden hour by factoring in altitude and location.
         <br>
         <a href="https://apps.apple.com/jp/app/登山日没時計/id6756158618"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
       </td>
