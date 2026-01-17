@@ -75,12 +75,6 @@ Software Engineer based in Japan. I'm interested in Cloudflare, blockchain, dece
 
 📫 Email: [bigmakiinum@outlook.jp]<br>
 
-<div align="center">
-  <a href="https://x.com/resoto_dev" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
-  </a>
-</div>
-
 <br>
 
 <div align="center">
