@@ -74,14 +74,10 @@ The user can freely change the node operation and protocol specifications.
 Software Engineer based in Japan. I'm interested in Cloudflare, blockchain, decentralized infrastructure, and security. I enjoy programming in Swift. Passionate mountain climber and rubber duck lover.
 
 📫 Email: [bigmakiinum@outlook.jp]<br>
-🐦 X(Twitter): [https://x.com/resoto_dev]
 
 <div align="center">
   <a href="https://x.com/resoto_dev" style="text-decoration: none; outline: none; border: none;">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X (Twitter)"/>
-  </a>
-  <a href="mailto:bigmakiinum@outlook.jp" style="text-decoration: none; outline: none; border: none;">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/>
   </a>
 </div>
 
