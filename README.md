@@ -23,7 +23,7 @@ The user can freely change the node operation and protocol specifications.
       <td align="center" width="50%">
         <a href="https://apps.apple.com/jp/app/山麺タイマー/id6756242794"><img src="https://github.com/resoto/resoto/raw/main/pic/alti-noodle.png" width="100" alt="Alti-Noodle"/></a>
         <br>
-        <b>Alti-Noodle (山麺タイマー)</b>
+        <b>Alti-Noodle</b>
         <br>
         <br>
         Optimizes cup noodle cooking time based on altitude-dependent boiling points.
@@ -33,7 +33,7 @@ The user can freely change the node operation and protocol specifications.
       <td align="center" width="50%">
         <a href="https://apps.apple.com/jp/app/登山日没時計/id6756158618"><img src="https://github.com/resoto/resoto/raw/main/pic/sunset_hiker.png" width="100" alt="Sunset Hiker"/></a>
         <br>
-        <b>Sunset Hiker (登山日没時計)</b>
+        <b>Sunset Hiker</b>
         <br>
         <br>
         Accurately predicts sunset times and golden hour by factoring in altitude and location.
