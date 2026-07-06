@@ -20,7 +20,7 @@ The user can freely change the node operation and protocol specifications.
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <a href="https://apps.apple.com/jp/app/山麺タイマー/id6756242794"><img src="https://github.com/resoto/resoto/raw/main/pic/alti-noodle.png" width="100" alt="Alti-Noodle"/></a>
         <br>
         <b>Alti-Noodle</b>
@@ -30,7 +30,7 @@ The user can freely change the node operation and protocol specifications.
         <br>
         <a href="https://apps.apple.com/jp/app/山麺タイマー/id6756242794"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="33%">
         <a href="https://apps.apple.com/jp/app/登山日没時計/id6756158618"><img src="https://github.com/resoto/resoto/raw/main/pic/sunset_hiker.png" width="100" alt="Sunset Hiker"/></a>
         <br>
         <b>Sunset Hiker</b>
@@ -39,6 +39,16 @@ The user can freely change the node operation and protocol specifications.
         Accurately predicts sunset times and golden hour by factoring in altitude and location.
         <br>
         <a href="https://apps.apple.com/jp/app/登山日没時計/id6756158618"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://apps.apple.com/jp/app/ip%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC-ip%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E7%A2%BA%E8%AA%8D%E3%81%A8%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E8%A9%B3%E7%B4%B0/id6766568237"><img src="https://github.com/resoto/resoto/raw/main/pic/ip-checker.png" width="100" alt="IP Checker"/></a>
+        <br>
+        <b>IP Checker</b>
+        <br>
+        <br>
+        Checks public IP, VPN status, and network details at a glance.
+        <br>
+        <a href="https://apps.apple.com/jp/app/ip%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC-ip%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E7%A2%BA%E8%AA%8D%E3%81%A8%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E8%A9%B3%E7%B4%B0/id6766568237"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
       </td>
     </tr>
   </table>
