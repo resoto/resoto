@@ -85,15 +85,6 @@ Software Engineer based in Japan. I'm interested in Cloudflare, blockchain, dece
 
 📫 Email: [bigmakiinum@outlook.jp]<br>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=resoto&theme=github" alt="Profile Details" width="600"/>
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=resoto&theme=github" alt="Most Commit Language" width="300"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=resoto&theme=github&utcOffset=9" alt="Productive Time" width="300"/>
-</div>
-
 ---
 
 ## 🥇 Badges
