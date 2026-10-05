@@ -1,95 +1,107 @@
 <div align="center">
-  <img src="https://github.com/bcasim/bcasim/raw/main/pic/logo.png" width="350" alt="BCASim Logo"/>
+  <p><img src="./pic/profile-banner.svg" width="100%" alt="Resoto — Software engineer in Japan. iOS apps, blockchain, and security." /></p>
+
+  <p>I build iOS apps for the outdoors and everyday life, and explore blockchain, decentralized infrastructure, and security.<br />Swift enthusiast, mountain climber, and rubber duck lover.</p>
+
+  <p>
+    <a href="#selected-apps">Apps</a> ·
+    <a href="#open-source">Open source</a> ·
+    <a href="#skills--interests">Skills</a> ·
+    <a href="#certifications">Certifications</a> ·
+    <a href="mailto:bigmakiinum@outlook.jp">Contact</a>
+  </p>
 </div>
 
-# BCASim : Blockchain Attack Simulator
-> [Github Page](https://github.com/bcasim/bcasim/)
+## Selected apps
 
-BCASim is an **open source** blockchain simulator designed for attack analysis.
-The user can freely change the node operation and protocol specifications.
-* **Attacks:** Double spending, Selfish mining, Sybil Attack.
+A few of the iOS apps I design and develop. **[Explore all apps at Resoto Apps →](https://app.resoto.net/)**
 
-<div align="center">
-  <img src="https://github.com/bcasim/bcasim/raw/main/pic/large-network.gif" width="100%" alt="BCASim Network Simulation Demo"/>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/app/id6809215124"><img src="https://app.resoto.net/assets/apps/wordtrail/icon.png" width="80" height="80" alt="WordTrail app icon" /></a>
+      <h3>WordTrail</h3>
+      <p><strong>English learning</strong></p>
+      <p>Turn English articles into study material with on-device AI explanations, quizzes, and vocabulary review.</p>
+      <p><a href="https://apps.apple.com/app/id6809215124">View on the App Store ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/app/id6808866419"><img src="https://app.resoto.net/assets/apps/trail-kit/icon.png" width="80" height="80" alt="Hiking Tools app icon" /></a>
+      <h3>Hiking Tools<br /><sub>山のツール</sub></h3>
+      <p><strong>Hiking &amp; outdoors</strong></p>
+      <p>An altimeter, compass, GPS recording, and bear bell in a customizable toolkit for the trail.</p>
+      <p><a href="https://apps.apple.com/app/id6808866419">View on the App Store ↗</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/app/id6766568237"><img src="https://app.resoto.net/assets/apps/ip-checker/icon.png" width="80" height="80" alt="IP Checker app icon" /></a>
+      <h3>IP Checker<br /><sub>IPチェッカー</sub></h3>
+      <p><strong>Network utilities</strong></p>
+      <p>Check public IPv4/IPv6, VPN status, and ISP details, with connection history and shareable reports.</p>
+      <p><a href="https://apps.apple.com/app/id6766568237">View on the App Store ↗</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://apps.apple.com/app/id6799602111"><img src="https://app.resoto.net/assets/apps/scanlist/icon.svg" width="80" height="80" alt="ScanList app icon" /></a>
+      <h3>ScanList</h3>
+      <p><strong>Scanning &amp; productivity</strong></p>
+      <p>Scan QR codes and barcodes in batches, organize records, and export to Excel, CSV, or JSON.</p>
+      <p><a href="https://apps.apple.com/app/id6799602111">View on the App Store ↗</a></p>
+    </td>
+  </tr>
+</table>
+
+## Open source
+
+### BCASim · Blockchain Attack Simulator
+
+<a href="https://github.com/bcasim/bcasim">
+  <img src="https://raw.githubusercontent.com/bcasim/bcasim/main/pic/logo.png" width="220" alt="BCASim logo" />
+</a>
+
+An open-source blockchain simulator for attack analysis. Customize node behavior and protocol rules to explore double spending, selfish mining, and Sybil attacks.
+
+**[Explore the repository →](https://github.com/bcasim/bcasim)**
+
+<details>
+  <summary>See the network simulation</summary>
+  <br />
+  <img src="https://raw.githubusercontent.com/bcasim/bcasim/main/pic/large-network.gif" width="100%" alt="Animated BCASim blockchain network simulation" />
+</details>
+
+## Skills &amp; interests
+
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&amp;logo=swift&amp;logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&amp;logo=c&amp;logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Blockchain-173D38?style=flat-square" alt="Blockchain" />
+  <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&amp;logo=hyperledger&amp;logoColor=white" alt="Hyperledger" />
+</p>
+
+## Certifications
+
+<p>
+  <img src="./pic/aws-certified-cloud-practitioner.png" width="96" alt="AWS Certified Cloud Practitioner" />
+  <img src="./pic/aws-certified-solutions-architect-associate.png" width="96" alt="AWS Certified Solutions Architect – Associate" />
+  <img src="./pic/microsoft-certified-azure-fundamentals.png" width="96" alt="Microsoft Certified Azure Fundamentals" />
+  <img src="./pic/JDLA_Deep_Learning_for_GENERAL_2025_3_image.png" width="96" alt="JDLA Deep Learning for GENERAL" />
+</p>
+
+## Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/resoto/resoto/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/resoto/resoto/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/resoto/resoto/output/github-contribution-grid-snake.svg" width="100%" alt="Animated GitHub contribution grid" />
+</picture>
 
 ---
 
-## iOS Apps
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <a href="https://apps.apple.com/jp/app/山麺タイマー/id6756242794"><img src="https://github.com/resoto/resoto/raw/main/pic/alti-noodle.png" width="100" alt="Alti-Noodle"/></a>
-        <br>
-        <b>Alti-Noodle</b>
-        <br>
-        <br>
-        Optimizes cup noodle cooking time based on altitude-dependent boiling points.
-        <br>
-        <a href="https://apps.apple.com/jp/app/山麺タイマー/id6756242794"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://apps.apple.com/jp/app/登山日没時計/id6756158618"><img src="https://github.com/resoto/resoto/raw/main/pic/sunset_hiker.png" width="100" alt="Sunset Hiker"/></a>
-        <br>
-        <b>Sunset Hiker</b>
-        <br>
-        <br>
-        Accurately predicts sunset times and golden hour by factoring in altitude and location.
-        <br>
-        <a href="https://apps.apple.com/jp/app/登山日没時計/id6756158618"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
-      </td>
-      <td align="center" width="33%">
-        <a href="https://apps.apple.com/jp/app/ip%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC-ip%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E7%A2%BA%E8%AA%8D%E3%81%A8%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E8%A9%B3%E7%B4%B0/id6766568237"><img src="https://github.com/resoto/resoto/raw/main/pic/ip-checker.png" width="100" alt="IP Checker"/></a>
-        <br>
-        <b>IP Checker</b>
-        <br>
-        <br>
-        Checks public IP, VPN status, and network details at a glance.
-        <br>
-        <a href="https://apps.apple.com/jp/app/ip%E3%83%81%E3%82%A7%E3%83%83%E3%82%AB%E3%83%BC-ip%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E7%A2%BA%E8%AA%8D%E3%81%A8%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E8%A9%B3%E7%B4%B0/id6766568237"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/></a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🛠 Skills & Interests
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-  <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white" alt="Blockchain" />
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger" />
-</div>
-
----
-
-## 🧩 Contributions
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/resoto/resoto/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/resoto/resoto/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/resoto/resoto/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
-## 🐥 About me
-Software Engineer based in Japan. I'm interested in Cloudflare, blockchain, decentralized infrastructure, and security. I enjoy programming in Swift. Passionate mountain climber and rubber duck lover.
-
-📫 Email: [bigmakiinum@outlook.jp]<br>
-
----
-
-## 🥇 Badges
-<img src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="100" alt="Certification Badge 1"/><img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="Certification Badge 2"/><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="Certification Badge 3"/><img src="https://github.com/resoto/resoto/blob/main/pic/JDLA_Deep_Learning_for_GENERAL_2025_3_image.png" width="100" alt="JDLA Deep Learning for GENERAL 2025 #4"/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=resoto&style=flat-square&color=blue" alt="visitors" />
-</div>
+<p align="center">
+  <a href="https://app.resoto.net/">Resoto Apps</a> ·
+  <a href="mailto:bigmakiinum@outlook.jp">Email me</a><br /><br />
+  <img src="https://komarev.com/ghpvc/?username=resoto&amp;style=flat-square&amp;color=173d38" alt="Profile views" />
+</p>

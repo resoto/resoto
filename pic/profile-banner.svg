@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
+  <title id="title">RESOTO — Software engineer, Japan</title>
+  <desc id="description">A dark evergreen profile banner introducing RESOTO, a software engineer in Japan focused on iOS apps, blockchain, and security. Fine mountain outlines and a lime summit mark the right side.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#122B2B"/>
+      <stop offset="1" stop-color="#101D28"/>
+    </linearGradient>
+    <linearGradient id="mountain" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#335955" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#335955" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="298" rx="20" fill="url(#background)" stroke="#29403F" stroke-width="2"/>
+  <g fill="none" stroke="#38514F" stroke-width="1" opacity=".5">
+    <path d="M726 62H1144M726 120H1144M726 178H1144M726 236H1144"/>
+    <path d="M764 42V259M859 42V259M954 42V259M1049 42V259M1144 42V259"/>
+  </g>
+  <path d="M697 257 821 146 875 197 983 75 1153 257Z" fill="url(#mountain)"/>
+  <g fill="none" stroke-linejoin="round" stroke-linecap="round">
+    <path d="m697 257 124-111 54 51L983 75l170 182" stroke="#6B9389" stroke-width="2"/>
+    <path d="m770 257 51-62 54 44L983 124l104 133" stroke="#3B645E" stroke-width="1.5"/>
+    <path d="m834 257 46-23 104-67 51 90M983 75l1 92" stroke="#3B645E" stroke-width="1.5"/>
+    <path d="m960 101 23-26 29 31" stroke="#CBEA8A" stroke-width="3"/>
+  </g>
+  <circle cx="983" cy="75" r="5" fill="#CBEA8A"/>
+  <circle cx="983" cy="75" r="12" fill="none" stroke="#CBEA8A" stroke-opacity=".2"/>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif">
+    <rect x="58" y="55" width="28" height="4" rx="2" fill="#CBEA8A"/>
+    <text x="56" y="140" fill="#F1F1E8" font-size="72" font-weight="700" letter-spacing="5">RESOTO</text>
+    <text x="59" y="186" fill="#C2D1C9" font-size="27" font-weight="400">Software engineer · Japan</text>
+    <text x="59" y="244" fill="#CBEA8A" font-size="17" font-weight="600" letter-spacing="2">iOS APPS / BLOCKCHAIN / SECURITY</text>
+  </g>
+</svg>
