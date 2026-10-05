@@ -4,6 +4,7 @@
   <p>I build iOS apps for the outdoors and everyday life, and explore blockchain, decentralized infrastructure, and security.<br />Swift enthusiast, mountain climber, and rubber duck lover.</p>
 
   <p>
+    <a href="#what-drives-me">About</a> ·
     <a href="#selected-apps">Apps</a> ·
     <a href="#open-source">Open source</a> ·
     <a href="#skills--interests">Skills</a> ·
@@ -11,6 +12,12 @@
     <a href="mailto:bigmakiinum@outlook.jp">Contact</a>
   </p>
 </div>
+
+## What drives me
+
+My interests in hiking and technology come together in the apps I build. I enjoy creating easy-to-use tools that solve small problems, whether on a mountain trail or in everyday life.
+
+I’m also interested in distributed systems and large-scale networks. I created [BCASim](https://github.com/bcasim/bcasim) to simulate attacks on blockchain networks.
 
 ## Selected apps
 
